@@ -1,4 +1,4 @@
-# ♻️ AI Content Repurposing Engine
+# ♻️ Content Repurposing Engine
 
 > **"Transforming a single piece of content into multiple formats with AI."**
 
